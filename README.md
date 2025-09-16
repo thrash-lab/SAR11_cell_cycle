@@ -1,5 +1,6 @@
 # SAR11_cell_cycle
-Analyses that are involved in the SAR11 cell cycle project (Cheng et al. 2025)
+Analyses that are involved in the SAR11 cell cycle project ([Cheng et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.25.661606v2))
+All iPython notebooks were being developed under [Google Colab](https://colab.research.google.com/), i.e. you can import them into Google Colab and run them directly without any extra configuration :-).
 
 ## CH_index_Ecoli_Vibrio_SAR11.ipynb
 Calculation of the Cooper-Helmstetter Indexes from previous E.coli (Skarstad, Steen, and Boye 1985; Boye and Løbner-Olesen 1991; Olsson et al. 2003), V.cholerae (Stokke, Waldminghaus, and Skarstad 2011), and SAR11 HTCC1062 (Carini et al. 2013) ploidy level distributions (Supplementary materials).
