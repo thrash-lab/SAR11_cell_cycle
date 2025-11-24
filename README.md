@@ -18,4 +18,4 @@ The example code in parsing one growth curve (cell density vs. time) with a defi
 Implementation of reading the fluorescence microscopic images (“.jpg” format), parse the image data and highlight cells with large sizes (Supplementary Note 3). 
 
 ## SAR11_Pangenome_analysis.ipynb
-The code for generating the marker gene presence/absence data in Supplementary Table Tab 1--12.
+The code for generating the marker gene presence/absence data in Supplementary Table Tab 1--3.
